@@ -1,0 +1,4 @@
+.PostsDisplay__Post {
+  display: flex;
+  justify-content: space-between;
+}

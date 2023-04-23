@@ -1,0 +1,16 @@
+[
+  {
+    "text": "aaa",
+    "user": {
+      "sub": "google-oauth2|103862110063053982456"
+    },
+    "id": "630f07aa-bbd2-4113-9e76-11bcff22c95f"
+  },
+  {
+    "text": "foo",
+    "user": {
+      "sub": "google-oauth2|104905857991137848021"
+    },
+    "id": "056cfcd8-a9c9-4096-ba06-8237f0c91d31"
+  }
+]
